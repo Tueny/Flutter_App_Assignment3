@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121283608966",
+    "project_id": "tueny-mobile-apps",
+    "storage_bucket": "tueny-mobile-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121283608966:android:d98b18ab4be1a32a94ec07",
+        "android_client_info": {
+          "package_name": "com.tueny.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAqQOazL-RvqUIx2dm7huPhr60yvrtL3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
